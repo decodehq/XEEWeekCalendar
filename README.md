@@ -12,3 +12,16 @@ Features:
 - events status (completed, current, failed), easy to configure more
 - long press on day title enable user easy to change layout of selected day
 - many other things
+
+
+Contact
+================
+
+Follow XEETech on Twitter (<a href="https://twitter.com/XEE_Tech">XEE Tech</a>).
+
+Connect with us on LinkedIn (<a href="http://www.linkedin.com/company/xee-tech">@XEE_Tech</a>).
+
+
+License
+================
+XEEPluralizer is available under the MIT license. See the LICENSE file for more info.
